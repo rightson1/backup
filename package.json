@@ -1,0 +1,26 @@
+{
+    "name": "freelancers",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next -p 3001",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.4.9",
+        "dashify": "^2.0.0",
+        "firebase": "^9.15.0",
+        "firebase-admin": "^11.4.1",
+        "mongoose": "^6.8.1",
+        "next": "^12.3.0",
+        "nextjs-cors": "^2.1.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "eslint": "8.23.1",
+        "eslint-config-next": "12.3.0"
+    }
+}
